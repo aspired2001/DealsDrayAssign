@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Ritika",
+    "email": "ritika110@gmail.com",
+    "mobileNo": "9820908809",
+    "designation": "Sales",
+    "gender": "male",
+    "courses": [
+      "MCA"
+    ],
+    "image": {}
+  },
+  {
+    "name": "Samreen",
+    "email": "Samreen2009@gmail.com",
+    "mobileNo": "9820908809",
+    "designation": "HR",
+    "gender": "female",
+    "courses": [
+      "BCA"
+    ],
+    "image": {}
+  },
+  {
+    "name": "Mayank",
+    "email": "mayankkeshri776@gmail.com",
+    "mobileNo": "9820908809",
+    "designation": "Sales",
+    "gender": "male",
+    "courses": [
+      "MCA"
+    ],
+    "image": {}
+  },
+  {
+    "name": "Shardul",
+    "email": "Samreen2009@gmail.com",
+    "mobileNo": "9820908809",
+    "designation": "Sales",
+    "gender": "male",
+    "courses": [
+      "BCA"
+    ],
+    "image": {}
+  }
+]
